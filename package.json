@@ -1,0 +1,21 @@
+{
+  "name": "com.alalmia.freesound-browser",
+  "version": "1.0.0",
+  "displayName": "Freesound SFX Browser",
+  "description": "Search, preview and install sounds from Freesound.org directly from any AudioClip field in the Inspector. Picked sounds are downloaded into a project folder, imported and assigned automatically.",
+  "unity": "2021.3",
+  "documentationUrl": "https://freesound.org/docs/api/",
+  "keywords": [
+    "audio",
+    "sfx",
+    "freesound",
+    "sound",
+    "editor"
+  ],
+  "author": {
+    "name": "ALALMIA"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
