@@ -1,3 +1,4 @@
+![In Editor Screenshot](screenshot.png)
 # Freesound SFX Browser for Unity
 
 Find, audition and drop sound effects from [Freesound.org](https://freesound.org) straight into your Unity project without leaving the Inspector.
